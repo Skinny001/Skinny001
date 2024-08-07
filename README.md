@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ayballer
-- 👀 I’m interested in produxt design
+- 👋 Hi, I’m Bamigboye Ayodeji Temitope
+- 👀 I’m interested in Front-End Developer
 - 🌱 I’m currently learning smart contract development 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bamigboyetemitope84@gmail.com 
