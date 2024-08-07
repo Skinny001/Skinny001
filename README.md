@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bamigboye Ayodeji Temitope
 - 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning smart contract development 
+- 🌱 I’m currently learning smart contract development ( web3)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bamigboyetemitope84@gmail.com 
 
