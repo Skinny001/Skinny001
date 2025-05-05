@@ -8,7 +8,7 @@
 
 Front-End Developer with a growing passion for Web3 technologies and smart contract development. I love building beautiful, responsive user interfaces and connecting them to the decentralized web.
 
-- 🔭 Currently working on expanding my Web3 development skills
+- 🔭 Front-end for web2/web3
 - 🌱 Smart contract development and blockchain technologies
 - 💡 Passionate about creating seamless user experiences
 - 💞️ Looking to collaborate on interesting projects that challenge me
@@ -42,7 +42,6 @@ Front-End Developer with a growing passion for Web3 technologies and smart contr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skinny001&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny001&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
