@@ -43,7 +43,7 @@ Front-End Developer with a growing passion for Web3 technologies and smart contr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skinny001&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny001E&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skinny001&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ## 🤝 Let's Connect!
