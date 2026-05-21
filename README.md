@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Front-End Developer with a growing passion for Web3 technologies and smart contract development. I love building beautiful, responsive user interfaces and connecting them to the decentralized web.
+Front-End Developer| Flutter Developer| with a growing passion for Web3 technologies and smart contract development. I love building beautiful, responsive user interfaces and connecting them to the decentralized web.
 
 - 🔭 Front-end for web2/web3
 - 🌱 Smart contract development and blockchain technologies
